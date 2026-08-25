@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "546457155712",
+    "project_id": "ars-nova-e1045",
+    "storage_bucket": "ars-nova-e1045.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546457155712:android:19b9632570b0dbbfa18e65",
+        "android_client_info": {
+          "package_name": "com.example.ars_nova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLmjLikC7d96keITLFy7DZ4tmZLRvG_tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546457155712:android:d7bdca4040033016a18e65",
+        "android_client_info": {
+          "package_name": "com.example.arsnova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLmjLikC7d96keITLFy7DZ4tmZLRvG_tU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
