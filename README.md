@@ -29,4 +29,6 @@ Cada botão possui uma cor diferente para facilitar a identificação da ação 
 <img width="143" height="321" alt="image" src="https://github.com/user-attachments/assets/9feebe42-ef26-4821-8b68-e8b9e0a5d76b" />
 <img width="147" height="316" alt="image" src="https://github.com/user-attachments/assets/61a3db0a-7168-462b-a8bf-c2fe413b252b" />
 
+<h3>📸 print do banco de dados</h3>
+<img width="1912" height="951" alt="image" src="https://github.com/user-attachments/assets/8430c436-b1a7-4ee4-9eb2-54df03f70bc8" />
 
